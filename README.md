@@ -1,8 +1,11 @@
 This repository contains a Power BI dashboard for sales and orders analysis, featuring:
 
 **1. Sales by Segment:** Tracks sales distribution over time.
+
 **2. Orders by Month**: Monitors monthly order counts.
+
 **3. Total Category Growth:** Analyzes category growth by year.
+
 **4. Total Segment Growth:** Examines segment growth by year.
 
 **Data Requirements:**
